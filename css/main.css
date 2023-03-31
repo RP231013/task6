@@ -1,0 +1,78 @@
+.goodies{
+    height: 800px;
+    width: 100%;
+    background-image: url("../assets/austin-neill-hgO1wFPXl3I-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.overlay{
+    height: 800px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    padding-top: 120px;
+}
+
+form{
+    width: 33%;
+    margin-left: 33%;
+    padding-top: 20px;
+    background-color: black;
+    color: white;
+    padding-bottom: 60px;
+    border-radius: 10px;
+}
+
+form h1{
+    color: lightgreen;
+}
+
+.buttons{
+    padding-left: 33%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.buttons p{
+    float: left;
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+.active{
+    border-bottom: 3px solid lightgreen;
+}
+
+.input-elem{
+    width: 60%;
+    height: 40px;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+#chb{
+    color: white;
+}
+
+.chbx{
+    margin-top: 15px;
+}
+
+button{
+    background-color: lightgreen !important;
+    font-weight: bold !important;
+    margin-top: 30px !important;
+}
+
+.fgp{
+    color: white;
+    opacity: 0.8;
+    cursor: pointer;
+    margin-top: 35px;
+}
